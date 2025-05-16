@@ -4,6 +4,11 @@ Haupsächlich gibt's hier das Anki Deck für das Spanisch Buch "Estudiantes.ELE 
 
 ## Changelog
 
+- 2025-05-16
+    - Fix: 07.R Améri*k*a ➜ Améri**c**a
+    - Fix: 08.02 l*e* estancia mínima ➜ l**a** estancia mínima
+- 2025-05-14
+    - Add: Lektion 10
 - 2025-05-11
     - Fix: 07.08 por un*d* lado…, por otro ➜ por un lado…, por otro
     - Fix: 07.10 inf:proponer ➜ inf: proponer
