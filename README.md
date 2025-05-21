@@ -4,6 +4,8 @@ Haupsächlich gibt's hier das Anki Deck für das Spanisch Buch "Estudiantes.ELE 
 
 ## Changelog
 
+- 2025-05-21
+    - Fix: 08.10 träume (von) ➜ träume**n** (von)
 - 2025-05-16
     - Fix: 07.R Améri*k*a ➜ Améri**c**a
     - Fix: 08.02 l*e* estancia mínima ➜ l**a** estancia mínima
