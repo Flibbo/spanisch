@@ -4,6 +4,9 @@ Haupsächlich gibt's hier das Anki Deck für das Spanisch Buch "Estudiantes.ELE 
 
 ## Changelog
 
+- 2025-05-24
+    - Fix: 08.R Krankenh*e*us ➜ Krankenh**a**us
+    - Fix: la cooperativa de vivendas ➜ la cooperativa de viv**i**endas
 - 2025-05-21
     - Fix: 08.10 träume (von) ➜ träume**n** (von)
 - 2025-05-16
