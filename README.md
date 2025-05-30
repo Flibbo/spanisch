@@ -1,9 +1,15 @@
 # Spanisch Lernmaterial und Co
 
-Haupsächlich gibt's hier das Anki Deck für das Spanisch Buch "Estudiantes.ELE A2" von Klett. 
+Haupsächlich gibt's hier das Anki Deck für das Spanisch Buch "Estudiantes.ELE A2" von Klett.
+
+## Feedback
+
+Falls ihr Fehler finden solltet, meldet sie oben als Issue, damit ich die dann für alle beseitigen kann.
 
 ## Changelog
 
+- 2025-05-30
+    - Add: Lektion 12
 - 2025-05-24
     - Fix: 08.R Krankenh*e*us ➜ Krankenh**a**us
     - Fix: la cooperativa de vivendas ➜ la cooperativa de viv**i**endas
