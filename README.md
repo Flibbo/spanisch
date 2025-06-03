@@ -8,6 +8,10 @@ Falls ihr Fehler finden solltet, meldet sie oben als Issue, damit ich die dann f
 
 ## Changelog
 
+- 2025-06-03
+    - Fix: 07.03 sistemático/-*o* ➜ sistemático/-**a**
+    - Fix: 07.05 tur*i*stico/-a ➜ tur**í**stico/-a
+    - Fix: 08.02 *a*l año académico ➜ **e**l año académico
 - 2025-05-30
     - Add: Lektion 12
 - 2025-05-24
