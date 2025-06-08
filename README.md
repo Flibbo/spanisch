@@ -8,6 +8,9 @@ Falls ihr Fehler finden solltet, meldet sie oben als Issue, damit ich die dann f
 
 ## Changelog
 
+- 2025-06-09
+    - Fix: 09.R weltweit auf der ganzen Welt ➜ weltweit**,** auf der ganzen Welt
+    - Fix: 09.R Internationalisi*s*erung ➜ Internationalisierung
 - 2025-06-03
     - Fix: 07.03 sistemático/-*o* ➜ sistemático/-**a**
     - Fix: 07.05 tur*i*stico/-a ➜ tur**í**stico/-a
