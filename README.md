@@ -8,6 +8,10 @@ Falls ihr Fehler finden solltet, meldet sie oben als Issue, damit ich die dann f
 
 ## Changelog
 
+- 2025-07-02
+    - Fix: 07.02 la tarjeta sanitara ➜ la tarjeta sanitaria
+    - Fix: 07.03 intendar + inf ➜ intentar + inf
+    - Fix: 10.06 la epidamia ➜ la epidemia
 - 2025-06-09
     - Fix: 09.R weltweit auf der ganzen Welt ➜ weltweit**,** auf der ganzen Welt
     - Fix: 09.R Internationalisi*s*erung ➜ Internationalisierung
